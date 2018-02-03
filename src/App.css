@@ -1,3 +1,12 @@
+html, body {
+  background-color: gray;
+}
+
+body {
+  padding: 10px;
+}
+
+
 .App {
   text-align: center;
   
@@ -25,7 +34,3 @@
   to { transform: rotate(360deg); }
 }
 
-h1 {
-  font-size: 54px;
-  color: rgb(131, 22, 22); 
-}
